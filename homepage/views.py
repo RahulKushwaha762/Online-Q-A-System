@@ -480,7 +480,7 @@ def your(request,your):
         'flag': flag,
         'finding': finding,
         'logged': logged,
-        'keyword':keyword
+        'keyword':keyword,
     }
     print(logged.email)
     return render(request, 'homepage/mainpage.html', context)

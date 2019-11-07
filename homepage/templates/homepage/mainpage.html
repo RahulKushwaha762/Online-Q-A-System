@@ -225,6 +225,7 @@
 
     <br>
     <br>
+    {{ finding }}
     {% if all_users %}
         {% for w in all_users %}
             {% if w.ip_address == ip %}
@@ -235,6 +236,7 @@
             {% elif finding == 3 %}
             <h2 style="color:black;">From Other Users</h2>
             {% endif %}
+
              <h2 style="color:black;">All Questions Asked</h2>
             {% if all_ques %}
                 {% for qu in all_ques reversed %}
