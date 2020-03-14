@@ -30,7 +30,7 @@ SECRET_KEY = '#%bz2_-+%(nr%tz@sbc8e+_+&g^q&$99#!=5d+^%9_n)=!gn4@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['onlinequestion.herokuapp.com']
+ALLOWED_HOSTS = ['onlinequestion.herokuapp.com','127.0.0.1']
 
 
 
