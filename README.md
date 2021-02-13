@@ -4,6 +4,7 @@ Online Question & Answer System ( Using Pycharm )
 A Question & Answer (Q&A) website where you can post your questions and can give answers to specific questions .Your answers can be reviewed , upvoted and you can know how relevant your answer will be for other persons .
 
 
+http://onlinequestion.herokuapp.com/ - Website Link!
 
 Technologies Used |
 ------------ |
@@ -25,5 +26,4 @@ _‘Online Question & Answer System’ is a web application designed where regis
 * There will be option for deleting his/her account, also asking the optional reason ‘Why are you deleting your account?’ .The data of the user from the database is deleted along with the questions asked, answers given, upvotes/downvotes. There will be option of ‘forgot password’ to obtain the password using his/her Gmail ID. Here the sending of mail is done by Simple Mail Transfer Protocol. Report page asks user to right optional description of any issue regarding the online service, then data is stored in separate model. It also has a logout option.
 * This web application will enable users to easily find relevant answers. Various possible solutions can be found for a single question. This will help the searcher to understand more and clear. Various ideas of people across network can also be discussed. This is efficient because an actual person gives the solutions rather than gathering information from multiple places of Internet. All the information is purely generated from collective network. User has freedom to ask on any topic. Various opinions can be discussed and shared for efficient results.
 
-http://onlinequestion.herokuapp.com/ - Website Link!
 
